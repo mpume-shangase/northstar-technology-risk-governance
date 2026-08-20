@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 838 470" width="838" height="470" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="838" height="470" fill="#ffffff"/>
+<text x="224" y="30" font-size="14" font-weight="600" text-anchor="middle" fill="#1a1a1a">Inherent risk (before treatment)</text>
+<rect x="64" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="68" y="322" font-size="8" fill="#6b6b6b">1</text>
+<rect x="64" y="246" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="68" y="258" font-size="8" fill="#6b6b6b">2</text>
+<rect x="64" y="182" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="68" y="194" font-size="8" fill="#6b6b6b">3</text>
+<rect x="64" y="118" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="68" y="130" font-size="8" fill="#6b6b6b">4</text>
+<rect x="64" y="54" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="68" y="66" font-size="8" fill="#6b6b6b">5</text>
+<rect x="128" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="132" y="322" font-size="8" fill="#6b6b6b">2</text>
+<rect x="128" y="246" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="132" y="258" font-size="8" fill="#6b6b6b">4</text>
+<rect x="128" y="182" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="132" y="194" font-size="8" fill="#6b6b6b">6</text>
+<rect x="128" y="118" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="132" y="130" font-size="8" fill="#6b6b6b">8</text>
+<rect x="128" y="54" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="132" y="66" font-size="8" fill="#6b6b6b">10</text>
+<rect x="192" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="196" y="322" font-size="8" fill="#6b6b6b">3</text>
+<rect x="192" y="246" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="196" y="258" font-size="8" fill="#6b6b6b">6</text>
+<rect x="192" y="182" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="196" y="194" font-size="8" fill="#6b6b6b">9</text>
+<text x="224.0" y="211.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-09</text>
+<text x="224.0" y="222.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-14</text>
+<rect x="192" y="118" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="196" y="130" font-size="8" fill="#6b6b6b">12</text>
+<text x="224.0" y="153.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-04</text>
+<rect x="192" y="54" width="64" height="64" fill="#f6c78a" stroke="#8a8a8a" stroke-width="1"/>
+<text x="196" y="66" font-size="8" fill="#6b6b6b">15</text>
+<rect x="256" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="260" y="322" font-size="8" fill="#6b6b6b">4</text>
+<rect x="256" y="246" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="260" y="258" font-size="8" fill="#6b6b6b">8</text>
+<rect x="256" y="182" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="260" y="194" font-size="8" fill="#6b6b6b">12</text>
+<text x="288.0" y="211.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-11</text>
+<text x="288.0" y="222.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-12</text>
+<rect x="256" y="118" width="64" height="64" fill="#f6c78a" stroke="#8a8a8a" stroke-width="1"/>
+<text x="260" y="130" font-size="8" fill="#6b6b6b">16</text>
+<text x="288.0" y="142.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-03</text>
+<text x="288.0" y="153.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-05</text>
+<text x="288.0" y="164.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-07</text>
+<rect x="256" y="54" width="64" height="64" fill="#f1a6a0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="260" y="66" font-size="8" fill="#6b6b6b">20</text>
+<rect x="320" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="324" y="322" font-size="8" fill="#6b6b6b">5</text>
+<rect x="320" y="246" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="324" y="258" font-size="8" fill="#6b6b6b">10</text>
+<text x="352.0" y="281.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-10</text>
+<rect x="320" y="182" width="64" height="64" fill="#f6c78a" stroke="#8a8a8a" stroke-width="1"/>
+<text x="324" y="194" font-size="8" fill="#6b6b6b">15</text>
+<text x="352.0" y="211.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-02</text>
+<text x="352.0" y="222.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-13</text>
+<rect x="320" y="118" width="64" height="64" fill="#f1a6a0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="324" y="130" font-size="8" fill="#6b6b6b">20</text>
+<text x="352.0" y="142.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-01</text>
+<text x="352.0" y="153.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-06</text>
+<text x="352.0" y="164.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-08</text>
+<rect x="320" y="54" width="64" height="64" fill="#f1a6a0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="324" y="66" font-size="8" fill="#6b6b6b">25</text>
+<text x="54" y="346.0" font-size="11" text-anchor="end" fill="#333">1</text>
+<text x="54" y="282.0" font-size="11" text-anchor="end" fill="#333">2</text>
+<text x="54" y="218.0" font-size="11" text-anchor="end" fill="#333">3</text>
+<text x="54" y="154.0" font-size="11" text-anchor="end" fill="#333">4</text>
+<text x="54" y="90.0" font-size="11" text-anchor="end" fill="#333">5</text>
+<text x="96.0" y="392" font-size="11" text-anchor="middle" fill="#333">1</text>
+<text x="160.0" y="392" font-size="11" text-anchor="middle" fill="#333">2</text>
+<text x="224.0" y="392" font-size="11" text-anchor="middle" fill="#333">3</text>
+<text x="288.0" y="392" font-size="11" text-anchor="middle" fill="#333">4</text>
+<text x="352.0" y="392" font-size="11" text-anchor="middle" fill="#333">5</text>
+<text x="224" y="412" font-size="11" font-weight="600" text-anchor="middle" fill="#333">Business impact</text>
+<text x="30" y="214" font-size="11" font-weight="600" text-anchor="middle" fill="#333" transform="rotate(-90 30 214)">Likelihood</text>
+<text x="648" y="30" font-size="14" font-weight="600" text-anchor="middle" fill="#1a1a1a">Residual risk (after treatment)</text>
+<rect x="488" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="492" y="322" font-size="8" fill="#6b6b6b">1</text>
+<rect x="488" y="246" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="492" y="258" font-size="8" fill="#6b6b6b">2</text>
+<rect x="488" y="182" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="492" y="194" font-size="8" fill="#6b6b6b">3</text>
+<rect x="488" y="118" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="492" y="130" font-size="8" fill="#6b6b6b">4</text>
+<rect x="488" y="54" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="492" y="66" font-size="8" fill="#6b6b6b">5</text>
+<rect x="552" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="556" y="322" font-size="8" fill="#6b6b6b">2</text>
+<rect x="552" y="246" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="556" y="258" font-size="8" fill="#6b6b6b">4</text>
+<rect x="552" y="182" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="556" y="194" font-size="8" fill="#6b6b6b">6</text>
+<rect x="552" y="118" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="556" y="130" font-size="8" fill="#6b6b6b">8</text>
+<rect x="552" y="54" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="556" y="66" font-size="8" fill="#6b6b6b">10</text>
+<rect x="616" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="620" y="322" font-size="8" fill="#6b6b6b">3</text>
+<rect x="616" y="246" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="620" y="258" font-size="8" fill="#6b6b6b">6</text>
+<text x="648.0" y="270.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-04</text>
+<text x="648.0" y="281.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-09</text>
+<text x="648.0" y="292.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-14</text>
+<rect x="616" y="182" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="620" y="194" font-size="8" fill="#6b6b6b">9</text>
+<rect x="616" y="118" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="620" y="130" font-size="8" fill="#6b6b6b">12</text>
+<rect x="616" y="54" width="64" height="64" fill="#f6c78a" stroke="#8a8a8a" stroke-width="1"/>
+<text x="620" y="66" font-size="8" fill="#6b6b6b">15</text>
+<rect x="680" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="684" y="322" font-size="8" fill="#6b6b6b">4</text>
+<text x="712.0" y="339.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-07</text>
+<text x="712.0" y="350.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-12</text>
+<rect x="680" y="246" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="684" y="258" font-size="8" fill="#6b6b6b">8</text>
+<text x="712.0" y="270.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-03</text>
+<text x="712.0" y="281.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-05</text>
+<text x="712.0" y="292.0" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-11</text>
+<rect x="680" y="182" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="684" y="194" font-size="8" fill="#6b6b6b">12</text>
+<rect x="680" y="118" width="64" height="64" fill="#f6c78a" stroke="#8a8a8a" stroke-width="1"/>
+<text x="684" y="130" font-size="8" fill="#6b6b6b">16</text>
+<rect x="680" y="54" width="64" height="64" fill="#f1a6a0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="684" y="66" font-size="8" fill="#6b6b6b">20</text>
+<rect x="744" y="310" width="64" height="64" fill="#cfe8cf" stroke="#8a8a8a" stroke-width="1"/>
+<text x="748" y="322" font-size="8" fill="#6b6b6b">5</text>
+<text x="776.0" y="328.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-01</text>
+<text x="776.0" y="339.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-02</text>
+<text x="776.0" y="350.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-06</text>
+<text x="776.0" y="361.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-10</text>
+<rect x="744" y="246" width="64" height="64" fill="#f7e9a3" stroke="#8a8a8a" stroke-width="1"/>
+<text x="748" y="258" font-size="8" fill="#6b6b6b">10</text>
+<text x="776.0" y="275.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-08</text>
+<text x="776.0" y="286.5" font-size="10" font-weight="600" text-anchor="middle" fill="#1a1a1a">R-13</text>
+<rect x="744" y="182" width="64" height="64" fill="#f6c78a" stroke="#8a8a8a" stroke-width="1"/>
+<text x="748" y="194" font-size="8" fill="#6b6b6b">15</text>
+<rect x="744" y="118" width="64" height="64" fill="#f1a6a0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="748" y="130" font-size="8" fill="#6b6b6b">20</text>
+<rect x="744" y="54" width="64" height="64" fill="#f1a6a0" stroke="#8a8a8a" stroke-width="1"/>
+<text x="748" y="66" font-size="8" fill="#6b6b6b">25</text>
+<text x="478" y="346.0" font-size="11" text-anchor="end" fill="#333">1</text>
+<text x="478" y="282.0" font-size="11" text-anchor="end" fill="#333">2</text>
+<text x="478" y="218.0" font-size="11" text-anchor="end" fill="#333">3</text>
+<text x="478" y="154.0" font-size="11" text-anchor="end" fill="#333">4</text>
+<text x="478" y="90.0" font-size="11" text-anchor="end" fill="#333">5</text>
+<text x="520.0" y="392" font-size="11" text-anchor="middle" fill="#333">1</text>
+<text x="584.0" y="392" font-size="11" text-anchor="middle" fill="#333">2</text>
+<text x="648.0" y="392" font-size="11" text-anchor="middle" fill="#333">3</text>
+<text x="712.0" y="392" font-size="11" text-anchor="middle" fill="#333">4</text>
+<text x="776.0" y="392" font-size="11" text-anchor="middle" fill="#333">5</text>
+<text x="648" y="412" font-size="11" font-weight="600" text-anchor="middle" fill="#333">Business impact</text>
+<text x="454" y="214" font-size="11" font-weight="600" text-anchor="middle" fill="#333" transform="rotate(-90 454 214)">Likelihood</text>
+<rect x="64" y="440" width="14" height="14" fill="#cfe8cf" stroke="#8a8a8a"/>
+<text x="84" y="451" font-size="11" fill="#333">Low 1-7</text>
+<rect x="204" y="440" width="14" height="14" fill="#f7e9a3" stroke="#8a8a8a"/>
+<text x="224" y="451" font-size="11" fill="#333">Moderate 8-14</text>
+<rect x="344" y="440" width="14" height="14" fill="#f6c78a" stroke="#8a8a8a"/>
+<text x="364" y="451" font-size="11" fill="#333">High 15-19</text>
+<rect x="484" y="440" width="14" height="14" fill="#f1a6a0" stroke="#8a8a8a"/>
+<text x="504" y="451" font-size="11" fill="#333">Critical 20-25</text>
+<text x="808" y="451" font-size="10" text-anchor="end" fill="#777">Northstar Global - constructed case study</text>
+</svg>
