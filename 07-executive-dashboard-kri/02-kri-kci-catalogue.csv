@@ -1,0 +1,25 @@
+Indicator ID,Type,Indicator,Related Risk,Green,Amber,Red,Current Value,Status,Data Source,Frequency,Owner,Reported To
+KRI-01,KRI,Risks above appetite without formal acceptance,All,0,1-2,3+,2,Amber,Risk register,Monthly,CRO,TRC and ARC
+KRI-02,KRI,Overdue treatment actions on above-appetite risks,All,0,1-3,4+,3,Amber,Treatment plan,Monthly,CRO,TRC
+KRI-03,KRI,Formal risk acceptances past expiry,All,0,1-2,3+,0,Green,Acceptance register,Monthly,CRO,TRC and ARC
+KRI-04,KRI,Critical or high vulnerabilities on internet-facing assets past SLA,CYB-03,0,1-5,6+,0,Green,Vulnerability scanner,Weekly,CISO,TRC
+KRI-05,KRI,Active identities without policy-enforced MFA,CYB-01 CYB-05,0,1-10,11+,0,Green,Conditional Access insights,Weekly,CISO,TRC
+KRI-06,KRI,Permanent (non-eligible) privileged role assignments,CYB-04,2,3-5,6+,2,Green,PIM assignment export,Monthly,CISO,TRC
+KRI-07,KRI,Endpoints without EDR coverage,CYB-02,0,1-25,26+,41,Red,EDR console and asset inventory,Weekly,CISO,TRC
+KRI-08,KRI,Cloud resources failing secure baseline,CLD-01,0,1-15,16+,24,Red,Configuration compliance scan,Weekly,CIO,TRC
+KRI-09,KRI,Critical suppliers without current due diligence,TPR-01 TPR-02,0,1-2,3+,4,Red,Vendor register,Monthly,Procurement Director,TRC
+KRI-10,KRI,AI systems in production without named owner and authority boundary,EMT-01 EMT-03,0,1-2,3+,5,Red,AI system inventory,Monthly,CIO,TRC and ARC
+KRI-11,KRI,Detected traffic to unapproved AI services (30-day),EMT-02,0,1-20,21+,0,Green,Network telemetry,Weekly,CIO,TRC
+KRI-12,KRI,Workload identities holding high-privilege directory permissions,EMT-03,11,12-15,16+,11,Green,Graph enumeration,Monthly,CISO,TRC
+KRI-13,KRI,Critical services with untested recovery procedure,RES-01 RES-02,0,1-2,3+,6,Red,Recovery test register,Quarterly,COO,TRC and ARC
+KRI-14,KRI,Business processes operating beyond MTD in the period,RES-01,0,1,2+,0,Green,Incident records,Monthly,COO,TRC
+KRI-15,KRI,Unauthorised production changes (30-day),OPS-01,0,1-3,4+,2,Amber,Change records,Monthly,CIO,TRC
+KRI-16,KRI,End-of-life systems in production without remediation plan,OPS-02,0,1-5,6+,14,Red,Asset inventory,Monthly,CIO,TRC
+KRI-17,KRI,Regulatory notifications missed or late,REG-01,0,-,1+,0,Green,Incident records,Monthly,CCO,TRC and ARC
+KRI-18,KRI,Technology assets outside inventory (estimated coverage gap),All,5%,6-15%,16%+,14%,Amber,Discovery scan,Quarterly,CIO,TRC and ARC
+KCI-01,KCI,Controls rated Effective at last test,All,80%,60-79%,<60%,12%,Red,Control testing results,Quarterly,Head of Technology Risk,TRC and ARC
+KCI-02,KCI,Control tests completed on schedule,All,95%,85-94%,<85%,100%,Green,Control testing plan,Quarterly,Head of Technology Risk,TRC
+KCI-03,KCI,Backup restore tests passed,RES-02,100%,90-99%,<90%,100%,Green,Restore test log,Quarterly,COO,TRC
+KCI-04,KCI,Vendor conditions precedent evidenced before signature,TPR-01 TPR-02,100%,-,<100%,100%,Green,Vendor onboarding records,Per onboarding,Procurement Director,TRC
+KPI-01,KPI,Treatment actions closed by original due date,All,85%,70-84%,<70%,78%,Amber,Treatment plan,Monthly,CRO,TRC
+KPI-02,KPI,Aggregate residual exposure against plan,All,On plan,+1-10%,+11%,+4.6%,Amber,Risk register,Quarterly,CRO,TRC and ARC
