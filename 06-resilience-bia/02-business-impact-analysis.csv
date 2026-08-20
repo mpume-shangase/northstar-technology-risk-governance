@@ -1,0 +1,9 @@
+Process ID,Business Process,Process Owner,Peak Period,MTD (hours),Impact at 4h (CAD),Impact at 24h (CAD),Impact at 72h (CAD),Primary Impact Type,Regulatory Exposure,Manual Workaround,Workaround Capacity,Supporting Services
+BP-01,Customer order capture and processing,COO,"Month-end, Sep-Nov peak",4,180000,1100000,3400000,Revenue and contractual,Contractual penalties,"Phone and email capture to spreadsheet",25% of normal volume,SVC-01 SVC-02 SVC-03
+BP-02,Production scheduling and execution,Head of Operations,Continuous,8,90000,620000,2100000,Operational and revenue,None,"Printed schedule from last known good state",40% for 48h then none,SVC-04 SVC-05 SVC-01
+BP-03,Quality release and dispatch,Head of Quality,Continuous,12,40000,310000,980000,Operational and regulatory,"Product traceability obligations","Paper batch records",60% but creates reconciliation debt,SVC-06 SVC-01
+BP-04,Payment release and treasury,CFO,"Weekly run, month-end",24,0,140000,520000,Financial and supplier relations,"Financial reporting controls","Manual bank portal with dual authorisation",Limited to critical payments,SVC-03 SVC-01
+BP-05,Customer service and enquiry handling,Head of Customer Service,"Business hours, Sep-Nov",24,15000,95000,340000,Reputational and revenue,None,"Mobile phones and personal notes",30%,SVC-07 SVC-08 SVC-01
+BP-06,Payroll processing,HR Director,"Monthly, days 25-28",72,0,0,410000,Employee and regulatory,"Statutory payment deadlines","Repeat prior period payment",One cycle only,SVC-03 SVC-01
+BP-07,Financial close and reporting,CFO,"Month-end and quarter-end",120,0,0,60000,Regulatory and governance,"Reporting deadlines","Extend close timetable",Full but delays reporting,SVC-03 SVC-09
+BP-08,Demand planning and forecasting,COO,Weekly cycle,168,0,0,0,Operational efficiency,None,"Prior period forecast plus manual adjustment",Full for 2 weeks,SVC-09 SVC-03

@@ -1,0 +1,10 @@
+Service ID,Technology Service,Hosting,Supports Processes,Tightest MTD (hours),Required RTO (hours),Current RTO (hours),RTO Gap (hours),Required RPO (hours),Current RPO (hours),Recovery Tested,Single Point of Failure,Gap Status
+SVC-01,Microsoft Entra ID (identity and authentication),Vendor SaaS,All processes,4,2,4,2,0,0,Never,"Yes - no alternative authentication path",Gap
+SVC-02,Order processing and EDI platform,Cloud IaaS,BP-01,4,4,8,4,1,4,Never,No - clustered,Gap
+SVC-03,SAP S/4HANA (finance and order management),Cloud IaaS,BP-01 BP-04 BP-06 BP-07 BP-08,4,4,12,8,1,6,Partial - database only,No - clustered,Significant gap
+SVC-04,Plant MES and scheduling,On-premises,BP-02,8,4,24,20,2,24,Never,"Yes - single site instance",Significant gap
+SVC-05,OT historian front end,On-premises,BP-02,8,6,24,18,4,24,Never,"Yes - single instance",Significant gap
+SVC-06,Quality management system (SharePoint),Vendor SaaS,BP-03,12,8,24,16,1,1,Never,No,Gap
+SVC-07,Microsoft 365 email and Teams,Vendor SaaS,BP-05,24,8,4,0,1,0,Never,No,Adequate
+SVC-08,Dynamics 365 Sales,Vendor SaaS,BP-05,24,12,8,0,4,1,Never,No,Adequate
+SVC-09,Cadence Analytics forecasting,Vendor SaaS,BP-08,168,24,8,0,24,24,Never,No,Adequate
