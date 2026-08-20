@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 600" width="980" height="600" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="980" height="600" fill="#ffffff"/>
+<text x="490.0" y="32" font-size="15" font-weight="600" text-anchor="middle" fill="#1a1a1a">Cadence Analytics - Due Diligence Scorecard</text>
+<text x="490.0" y="53" font-size="11" text-anchor="middle" fill="#777">Weighted score 42.6 / 100 · Inherent vendor risk rating: HIGH · Constructed case study</text>
+<text x="302" y="82" font-size="10.5" text-anchor="end" fill="#555">Domain (weight)</text>
+<text x="310" y="82" font-size="10.5" fill="#555">Score out of 5</text>
+<text x="302" y="113" font-size="11" text-anchor="end" fill="#1a1a1a">Information security governance (10%)</text>
+<rect x="310" y="98" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="98" width="416" height="22" fill="#7fb77f"/>
+<line x1="414" y1="98" x2="414" y2="120" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="98" x2="518" y2="120" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="98" x2="622" y2="120" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="98" x2="726" y2="120" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="114" font-size="11" font-weight="600" fill="#333">4</text>
+<text x="858" y="114" font-size="10" fill="#666">Adequate</text>
+<text x="302" y="153" font-size="11" text-anchor="end" fill="#1a1a1a">Access control and authentication (10%)</text>
+<rect x="310" y="138" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="138" width="312" height="22" fill="#f0d060"/>
+<line x1="414" y1="138" x2="414" y2="160" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="138" x2="518" y2="160" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="138" x2="622" y2="160" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="138" x2="726" y2="160" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="154" font-size="11" font-weight="600" fill="#333">3</text>
+<text x="858" y="154" font-size="10" fill="#666">Gap</text>
+<text x="302" y="193" font-size="11" text-anchor="end" fill="#1a1a1a">Data protection and privacy (15%)</text>
+<rect x="310" y="178" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="178" width="208" height="22" fill="#e8a05c"/>
+<line x1="414" y1="178" x2="414" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="178" x2="518" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="178" x2="622" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="178" x2="726" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="194" font-size="11" font-weight="600" fill="#333">2</text>
+<text x="858" y="194" font-size="10" fill="#666">Significant gap</text>
+<text x="302" y="233" font-size="11" text-anchor="end" fill="#1a1a1a">AI and model governance (15%)</text>
+<rect x="310" y="218" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="218" width="104" height="22" fill="#e07b72"/>
+<line x1="414" y1="218" x2="414" y2="240" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="218" x2="518" y2="240" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="218" x2="622" y2="240" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="218" x2="726" y2="240" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="234" font-size="11" font-weight="600" fill="#333">1</text>
+<text x="858" y="234" font-size="10" fill="#666">Critical gap</text>
+<text x="302" y="273" font-size="11" text-anchor="end" fill="#1a1a1a">Subcontractor and fourth-party management (12%)</text>
+<rect x="310" y="258" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="258" width="104" height="22" fill="#e07b72"/>
+<line x1="414" y1="258" x2="414" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="258" x2="518" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="258" x2="622" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="258" x2="726" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="274" font-size="11" font-weight="600" fill="#333">1</text>
+<text x="858" y="274" font-size="10" fill="#666">Critical gap</text>
+<text x="302" y="313" font-size="11" text-anchor="end" fill="#1a1a1a">Resilience and business continuity (10%)</text>
+<rect x="310" y="298" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="298" width="312" height="22" fill="#f0d060"/>
+<line x1="414" y1="298" x2="414" y2="320" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="298" x2="518" y2="320" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="298" x2="622" y2="320" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="298" x2="726" y2="320" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="314" font-size="11" font-weight="600" fill="#333">3</text>
+<text x="858" y="314" font-size="10" fill="#666">Gap</text>
+<text x="302" y="353" font-size="11" text-anchor="end" fill="#1a1a1a">Incident management and notification (8%)</text>
+<rect x="310" y="338" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="338" width="208" height="22" fill="#f0d060"/>
+<line x1="414" y1="338" x2="414" y2="360" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="338" x2="518" y2="360" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="338" x2="622" y2="360" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="338" x2="726" y2="360" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="354" font-size="11" font-weight="600" fill="#333">2</text>
+<text x="858" y="354" font-size="10" fill="#666">Gap</text>
+<text x="302" y="393" font-size="11" text-anchor="end" fill="#1a1a1a">Compliance and certification (6%)</text>
+<rect x="310" y="378" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="378" width="312" height="22" fill="#f0d060"/>
+<line x1="414" y1="378" x2="414" y2="400" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="378" x2="518" y2="400" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="378" x2="622" y2="400" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="378" x2="726" y2="400" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="394" font-size="11" font-weight="600" fill="#333">3</text>
+<text x="858" y="394" font-size="10" fill="#666">Gap</text>
+<text x="302" y="433" font-size="11" text-anchor="end" fill="#1a1a1a">Contractual controls (8%)</text>
+<rect x="310" y="418" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="418" width="208" height="22" fill="#e8a05c"/>
+<line x1="414" y1="418" x2="414" y2="440" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="418" x2="518" y2="440" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="418" x2="622" y2="440" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="418" x2="726" y2="440" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="434" font-size="11" font-weight="600" fill="#333">2</text>
+<text x="858" y="434" font-size="10" fill="#666">Significant gap</text>
+<text x="302" y="473" font-size="11" text-anchor="end" fill="#1a1a1a">Exit and data portability (6%)</text>
+<rect x="310" y="458" width="520" height="22" fill="#eeeeee" stroke="#dddddd"/>
+<rect x="310" y="458" width="104" height="22" fill="#e07b72"/>
+<line x1="414" y1="458" x2="414" y2="480" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="518" y1="458" x2="518" y2="480" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="622" y1="458" x2="622" y2="480" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<line x1="726" y1="458" x2="726" y2="480" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+<text x="840" y="474" font-size="11" font-weight="600" fill="#333">1</text>
+<text x="858" y="474" font-size="10" fill="#666">Critical gap</text>
+<rect x="310" y="562" width="14" height="14" fill="#7fb77f" stroke="#999"/>
+<text x="329" y="573" font-size="10.5" fill="#333">Adequate</text>
+<rect x="410" y="562" width="14" height="14" fill="#f0d060" stroke="#999"/>
+<text x="429" y="573" font-size="10.5" fill="#333">Gap</text>
+<rect x="490" y="562" width="14" height="14" fill="#e8a05c" stroke="#999"/>
+<text x="509" y="573" font-size="10.5" fill="#333">Significant gap</text>
+<rect x="630" y="562" width="14" height="14" fill="#e07b72" stroke="#999"/>
+<text x="649" y="573" font-size="10.5" fill="#333">Critical gap</text>
+</svg>
