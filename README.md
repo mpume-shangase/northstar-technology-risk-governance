@@ -43,7 +43,7 @@ map, control-gap assessment, treatment plan, executive summary.
 | 04 | [Third-Party & Supply-Chain Risk Assessment](./04-third-party-risk/) | D2 + D3 | **Complete** — vendor scored 42.6/100, HIGH |
 | 05 | [AI Governance & Emerging Technology Risk](./05-ai-governance-risk/) | All domains | **Complete** — 14 systems, 218 → 92 |
 | 06 | [Technology Resilience & Business Impact Assessment](./06-resilience-bia/) | D1, D2, D4 | **Complete** — 6 of 9 services below tolerance |
-| 07 | Executive Risk Dashboard & KRI Programme | D3 | Planned |
+| 07 | [Executive Risk Dashboard & KRI Programme](./07-executive-dashboard-kri/) | D3 Risk Response | **Complete** — 24 indicators, Board pack |
 
 ## Shared foundations
 
