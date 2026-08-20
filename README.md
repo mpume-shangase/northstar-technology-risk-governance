@@ -41,7 +41,7 @@ map, control-gap assessment, treatment plan, executive summary.
 | 02 | [Enterprise Risk Assessment & Register](./02-enterprise-risk-assessment/) | D2 Risk Assessment | **Complete** — 24 scenarios, 8 categories |
 | 03 | [Control Assessment & Risk Treatment Programme](./03-control-assessment-treatment/) | D3 Risk Response | **Complete** — 330 → 169, −49% |
 | 04 | [Third-Party & Supply-Chain Risk Assessment](./04-third-party-risk/) | D2 + D3 | **Complete** — vendor scored 42.6/100, HIGH |
-| 05 | AI Governance & Emerging Technology Risk | All domains | Planned |
+| 05 | [AI Governance & Emerging Technology Risk](./05-ai-governance-risk/) | All domains | **Complete** — 14 systems, 218 → 92 |
 | 06 | Technology Resilience & Business Impact Assessment | D1, D2, D4 | Planned |
 | 07 | Executive Risk Dashboard & KRI Programme | D3 | Planned |
 
