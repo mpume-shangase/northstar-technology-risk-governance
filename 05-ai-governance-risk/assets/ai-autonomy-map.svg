@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 958 656" width="958" height="656" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="958" height="656" fill="#ffffff"/>
+<text x="479.0" y="34" font-size="16" font-weight="600" text-anchor="middle" fill="#1a1a1a">Northstar Global - AI System Autonomy vs Data Sensitivity</text>
+<text x="479.0" y="56" font-size="11.5" text-anchor="middle" fill="#777">14 systems · 12 without a documented authority boundary · 2 shadow · Constructed case study</text>
+<text x="479.0" y="76" font-size="11" text-anchor="middle" fill="#999">Governance requirement increases with autonomy x sensitivity</text>
+<rect x="118" y="456" width="200" height="88" fill="#cfe8cf" stroke="#8a8a8a"/>
+<rect x="118" y="368" width="200" height="88" fill="#cfe8cf" stroke="#8a8a8a"/>
+<text x="218.0" y="417.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S10</text>
+<rect x="118" y="280" width="200" height="88" fill="#cfe8cf" stroke="#8a8a8a"/>
+<text x="218.0" y="329.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S07</text>
+<rect x="118" y="192" width="200" height="88" fill="#f7e9a3" stroke="#8a8a8a"/>
+<text x="218.0" y="226.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S01</text>
+<text x="218.0" y="241.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S02</text>
+<text x="218.0" y="256.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#a01818">S14 (shadow)</text>
+<rect x="118" y="104" width="200" height="88" fill="#f7e9a3" stroke="#8a8a8a"/>
+<text x="218.0" y="145.5" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S06 (pending)</text>
+<text x="218.0" y="160.5" font-size="11.5" font-weight="600" text-anchor="middle" fill="#a01818">S13 (shadow)</text>
+<rect x="318" y="456" width="200" height="88" fill="#cfe8cf" stroke="#8a8a8a"/>
+<rect x="318" y="368" width="200" height="88" fill="#f7e9a3" stroke="#8a8a8a"/>
+<text x="418.0" y="409.5" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S08</text>
+<text x="418.0" y="424.5" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S12</text>
+<rect x="318" y="280" width="200" height="88" fill="#f7e9a3" stroke="#8a8a8a"/>
+<text x="418.0" y="329.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S03</text>
+<rect x="318" y="192" width="200" height="88" fill="#f6c78a" stroke="#8a8a8a"/>
+<rect x="318" y="104" width="200" height="88" fill="#f6c78a" stroke="#8a8a8a"/>
+<rect x="518" y="456" width="200" height="88" fill="#cfe8cf" stroke="#8a8a8a"/>
+<rect x="518" y="368" width="200" height="88" fill="#f7e9a3" stroke="#8a8a8a"/>
+<rect x="518" y="280" width="200" height="88" fill="#f6c78a" stroke="#8a8a8a"/>
+<text x="618.0" y="321.5" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S05</text>
+<text x="618.0" y="336.5" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S09</text>
+<rect x="518" y="192" width="200" height="88" fill="#f1a6a0" stroke="#8a8a8a"/>
+<text x="618.0" y="241.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S04</text>
+<rect x="518" y="104" width="200" height="88" fill="#f1a6a0" stroke="#8a8a8a"/>
+<text x="618.0" y="153.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#1a1a1a">S11</text>
+<rect x="718" y="456" width="200" height="88" fill="#f7e9a3" stroke="#8a8a8a"/>
+<rect x="718" y="368" width="200" height="88" fill="#f6c78a" stroke="#8a8a8a"/>
+<rect x="718" y="280" width="200" height="88" fill="#f1a6a0" stroke="#8a8a8a"/>
+<rect x="718" y="192" width="200" height="88" fill="#f1a6a0" stroke="#8a8a8a"/>
+<rect x="718" y="104" width="200" height="88" fill="#f1a6a0" stroke="#8a8a8a"/>
+<text x="106" y="505.0" font-size="12" text-anchor="end" fill="#333">1</text>
+<text x="106" y="417.0" font-size="12" text-anchor="end" fill="#333">2</text>
+<text x="106" y="329.0" font-size="12" text-anchor="end" fill="#333">3</text>
+<text x="106" y="241.0" font-size="12" text-anchor="end" fill="#333">4</text>
+<text x="106" y="153.0" font-size="12" text-anchor="end" fill="#333">5</text>
+<text x="218.0" y="566" font-size="11.5" text-anchor="middle" fill="#333">A0 Assistive</text>
+<text x="418.0" y="566" font-size="11.5" text-anchor="middle" fill="#333">A1 Supervised</text>
+<text x="618.0" y="566" font-size="11.5" text-anchor="middle" fill="#333">A2 Delegated</text>
+<text x="818.0" y="566" font-size="11.5" text-anchor="middle" fill="#333">A3 Autonomous</text>
+<text x="518" y="588" font-size="12" font-weight="600" text-anchor="middle" fill="#333">Autonomy tier</text>
+<text x="66" y="324.0" font-size="12" font-weight="600" text-anchor="middle" fill="#333" transform="rotate(-90 66 324.0)">Data sensitivity</text>
+<text x="118" y="632" font-size="10.5" fill="#a01818">Red labels = shadow AI, no owner, no boundary, no logging</text>
+<text x="918" y="632" font-size="10.5" text-anchor="end" fill="#777">S11 CV screening = EU AI Act high-risk</text>
+</svg>

@@ -1,0 +1,15 @@
+System ID,System Name,Category,Deployment,Autonomy Tier,Data Sensitivity,Personal Data,Business Process Supported,Named Owner,Authority Boundary Documented,Human Review,Logging,Discovery Method,EU AI Act Classification,Status
+AI-SYS-01,Microsoft 365 Copilot,Productivity assistant,Sanctioned,A0 Assistive,4,Yes,All functions,CIO,No,Not required (assistive),Partial,IT records,Minimal risk,Production
+AI-SYS-02,Copilot Studio agent - HR policy Q&A,Conversational agent,Sanctioned,A0 Assistive,4,Yes,HR service desk,HR Director,No,Not required (assistive),No,IT records,Limited risk,Production
+AI-SYS-03,Copilot Studio agent - customer order status,Conversational agent,Sanctioned,A1 Supervised,3,Yes,Customer service,Head of Customer Service,No,Per response,No,IT records,Limited risk,Production
+AI-SYS-04,AI Builder invoice extraction,Document processing,Sanctioned,A2 Delegated,4,No,Accounts payable,Finance Systems Owner,No,Sampled post-hoc,Partial,IT records,Minimal risk,Production
+AI-SYS-05,Power Automate customer email sentiment,Classification,Sanctioned,A2 Delegated,3,Yes,Customer service routing,Head of Customer Service,No,None,No,Discovery scan,Minimal risk,Production
+AI-SYS-06,Cadence Analytics demand forecasting,External SaaS,Pending approval,A0 Assistive,5,Yes,Demand planning,COO,Pending,Per forecast cycle,Vendor-side only,Procurement,Minimal risk,Onboarding
+AI-SYS-07,Dynamics 365 Sales insights,Embedded vendor AI,Sanctioned,A0 Assistive,3,Yes,Sales pipeline,Sales Director,No,Not required (assistive),No,IT records,Minimal risk,Production
+AI-SYS-08,Azure OpenAI IT helpdesk chatbot,Conversational agent,Sanctioned,A1 Supervised,2,No,IT service desk,Head of IT Operations,Partial,Per ticket action,Yes,IT records,Limited risk,Production
+AI-SYS-09,Azure OpenAI quality report summarisation,Summarisation,Sanctioned,A2 Delegated,3,No,Plant quality reporting,Head of Quality,No,Sampled post-hoc,Partial,IT records,Minimal risk,Production
+AI-SYS-10,GitHub Copilot,Code assistant,Sanctioned,A0 Assistive,2,No,Software development,Head of Engineering,No,Code review,No,IT records,Minimal risk,Production
+AI-SYS-11,TalentFilter CV screening,External SaaS,Sanctioned,A2 Delegated,5,Yes,Recruitment shortlisting,HR Director,No,None,Vendor-side only,Procurement,HIGH RISK - employment,Production
+AI-SYS-12,Predictive maintenance model,Custom ML,Sanctioned,A1 Supervised,2,No,Plant maintenance scheduling,Head of Operations,No,Per work order,Yes,IT records,Minimal risk,Production
+AI-SYS-13,Consumer AI services - Finance and Sales,Shadow,UNAPPROVED,A0 Assistive,5,Yes,Ad hoc analysis and drafting,None,No,None,None,Network telemetry,Unassessed,Shadow
+AI-SYS-14,Consumer AI services - Marketing,Shadow,UNAPPROVED,A0 Assistive,4,Yes,Content drafting,None,No,None,None,Network telemetry,Unassessed,Shadow
